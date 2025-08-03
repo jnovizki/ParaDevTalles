@@ -1,0 +1,3 @@
+https://yesno.wtf/
+
+Para obtener instrucciones, ingresar a https://yesno.wtf/#api
