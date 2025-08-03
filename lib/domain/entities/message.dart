@@ -1,9 +1,9 @@
 enum FromWho { me, hers }
 
 class Message {
-  final String text = "";
-  final String imageUrl = "";
-  final FromWho fromWho = FromWho.me;
+  String text = "";
+  String imageUrl = "";
+  FromWho fromWho = FromWho.me;
 
-  Message({required text, imageUrl, required fromWho});
+  Message({required this.text, imageUrl, required this.fromWho});
 }
